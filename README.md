@@ -9,7 +9,7 @@ A command line utility for the Cortex Platform.
 ```bash
 npm install -g cortex-cli
 ```
-
+ 
 #### From Source:
 Once you have the code pulled, run this command from the cortex-cli directory:
 ```bash
